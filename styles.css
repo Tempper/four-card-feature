@@ -60,6 +60,7 @@
   align-items: center;
   justify-content: center;
   margin: 1.88rem;
+  padding: clamp(56px, 4vw + 43px, 102px);
 }
 .title-wrapper {
   text-align: center;
@@ -84,11 +85,11 @@
   border-top: 0.25rem solid #ea5454;
 }
 .calculator-card {
-  border-top: 0.25rem solid #fcae4a;
+  border-top: 0.25rem solid #549ef2;
 }
 
 .karma-card {
-  border-top: 0.25rem solid #549ef2;
+  border-top: 0.25rem solid #fcae4a;
 }
 
 .center-cards {
